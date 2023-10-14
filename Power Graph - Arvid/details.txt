@@ -1,0 +1,1 @@
+Folder for Power Graph. This contains the files related to the model by the creator Arvid.
