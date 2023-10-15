@@ -1,4 +1,4 @@
-#Power Graph
+# Power Graph
 
 a power graph to measure power gain/loss.
 
