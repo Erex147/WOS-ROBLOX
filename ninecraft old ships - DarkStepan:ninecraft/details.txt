@@ -1,0 +1,3 @@
+Folder for ninecraft old ships. This contains the files related to the model(s) by the creator ninecraft.
+
+note: models provided by DarkStepan
