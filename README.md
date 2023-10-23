@@ -13,7 +13,7 @@ Weldfiy's signal class in pilot - https://github.com/iimurpyh/pilot-lua/wiki/Wel
 
 
 
-# Plugin links-
+# Plugin links
 
 
 Default plugin (stable version of game) - https://create.roblox.com/marketplace/asset/6724254977/MBTools
